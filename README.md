@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=pie&hide_title=true&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=pie&hide_title=true&theme=tokyonight&bg_color=00000000&langs_count=8&icon_color=00FFA6" alt="Top Langs" />
 </p>
