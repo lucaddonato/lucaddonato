@@ -7,7 +7,6 @@
   <img src="https://github.com/lucaddonato/lucaddonato/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<h2 align="center">📊 Linguagens mais usadas</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=pie&hide_title=true&theme=tokyonight" alt="Top Langs" />
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['JavaScript','Python','HTML'],datasets:[{data:[50,30,20],backgroundColor:['#A7C7E7','#A7C7E7','#A7C7E7']}]},options:{plugins:{legend:{display:false}},cutout:'80%'}}" alt="Gráfico de Linguagens" width="200" />
 </p>
