@@ -10,20 +10,26 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=compact&hide_title=true&bg_color=00000000&langs_count=10" alt="Top Languages" />
 
 
-## Programming Languages
-![Python](https://img.shields.io/badge/-Python-44E376?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-216E39?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-216E39?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white)
+<h2>Programming Languages</h2>
+<p>
+  <img src="https://img.shields.io/badge/-Python-44E376?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-216E39?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-216E39?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
 
-## Databases
-![SQL](https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-44E376?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-216E39?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-44E376?style=for-the-badge&logo=postgresql&logoColor=white)
+<h2>Databases</h2>
+<p>
+  <img src="https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-44E376?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLite-216E39?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-44E376?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-## Tools
-![R](https://img.shields.io/badge/-R-216E39?style=for-the-badge&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-216E39?style=for-the-badge&logo=powerbi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-44E376?style=for-the-badge&logo=docker&logoColor=white)
+<h2>Tools</h2>
+<p>
+  <img src="https://img.shields.io/badge/-R-216E39?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/-Power%20BI-216E39?style=for-the-badge&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-44E376?style=for-the-badge&logo=docker&logoColor=white">
+</p>
