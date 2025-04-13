@@ -11,4 +11,4 @@
 
 <img src="https://skillicons.dev/icons?i=python,javascript,java,nodejs,mysql,sqlite,postgresql,r,docker&theme=light" />
 
-![Java](https://img.shields.io/badge/-Java-00FF00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-92FA80?style=for-the-badge&logo=java&logoColor=white)
