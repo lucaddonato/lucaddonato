@@ -9,4 +9,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=compact&hide_title=true&bg_color=00000000&langs_count=10" alt="Top Languages" />
 
-[Youtube converter](https://github.com/lucaddonato/Youtube-converter)
+[![Youtube Converter](https://img.shields.io/badge/Youtube%20Converter-%23FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaddonato/Youtube-converter)
