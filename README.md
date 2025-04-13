@@ -9,7 +9,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=compact&hide_title=true&bg_color=00000000&langs_count=10" alt="Top Languages" />
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,nodejs,mysql,sqlite,postgresql,r,docker&theme=light" />
 
 ![Python](https://img.shields.io/badge/-Python-B5E61D?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-78C947?style=for-the-badge&logo=javascript&logoColor=white)
