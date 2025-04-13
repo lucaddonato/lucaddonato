@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=compact&hide_title=true&bg_color=00000000&langs_count=10" alt="Top Languages" />
 
 
-<h2>Programming Languages</h2>
+<h2>Programming</h2>
 <p>
   <img src="https://img.shields.io/badge/-Python-44E376?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-216E39?style=for-the-badge&logo=javascript&logoColor=white">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-<h2>Databases</h2>
+<h2>Database</h2>
 <p>
   <img src="https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-44E376?style=for-the-badge&logo=mysql&logoColor=white">
