@@ -7,6 +7,4 @@
   <img src="https://github.com/lucaddonato/lucaddonato/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=compact&hide_title=true&theme=tokyonight&langs_count=10&icon_color=00FFA6" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaddonato&layout=compact&hide_title=true&bg_color=00000000&langs_count=10" alt="Top Languages" />
