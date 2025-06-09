@@ -42,3 +42,11 @@
   <img src="https://img.shields.io/badge/-Docker-44E376?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Airflow-216E39?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
+<p></p>
+
+
+<h2>Libraries</h2>
+<p>
+  <img src="https://img.shields.io/badge/-R-216E39?style=for-the-badge&logo=r&logoColor=white">
+</p>
+<p></p>
