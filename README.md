@@ -48,5 +48,6 @@
 <h2>Libraries</h2>
 <p>
   <img src="https://img.shields.io/badge/-Pandas-216E39?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Selenium-44E376?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
 <p></p>
