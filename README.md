@@ -40,5 +40,5 @@
   <img src="https://img.shields.io/badge/-Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/-Power%20BI-216E39?style=for-the-badge&logo=powerbi&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-44E376?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-Airflow-216E39?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
