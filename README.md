@@ -17,7 +17,7 @@
 <h2>Programming</h2>
 <p>
   <img src="https://img.shields.io/badge/-Python-216E39?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-216E39?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-44E376?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-216E39?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
