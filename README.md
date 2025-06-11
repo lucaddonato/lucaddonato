@@ -20,13 +20,13 @@
   <img src="https://img.shields.io/badge/-JavaScript-44E376?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-216E39?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 <p></p>
 
 
 <h2>Database</h2>
 <p>
-  <img src="https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-44E376?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-SQLite-216E39?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/-PostgreSQL-44E376?style=for-the-badge&logo=postgresql&logoColor=white">
