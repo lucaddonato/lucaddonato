@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-Java-216E39?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-216E39?style=for-the-badge&logo=r&logoColor=white">
 </p>
 <p></p>
 
@@ -36,7 +37,6 @@
 
 <h2>Tools</h2>
 <p>
-  <img src="https://img.shields.io/badge/-R-216E39?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/-Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/-Power%20BI-216E39?style=for-the-badge&logo=powerbi&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-44E376?style=for-the-badge&logo=docker&logoColor=white">
