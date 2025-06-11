@@ -53,5 +53,6 @@
   <img src="https://img.shields.io/badge/-Openpyxl-216E39?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Beautiful_Soup-216E39?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-PySpark-44E376?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/-FastAPI-216E39?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 <p></p>
