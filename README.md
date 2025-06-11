@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Java-216E39?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-216E39?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-R-216E39?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-44E376?style=for-the-badge&logo=r&logoColor=white">
 </p>
 <p></p>
 
