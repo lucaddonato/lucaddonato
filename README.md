@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/-Airflow-216E39?style=for-the-badge&logo=apache-airflow&logoColor=white">
   <img src="https://img.shields.io/badge/-Azure-44E376?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-216E39?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Google%20Cloud-216E39?style=for-the-badge&logo=googlecloud&logoColor=white">
 </p>
 <p></p>
 
