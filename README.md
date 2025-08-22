@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Student at ESPM | Software Developer
+  Student at ESPM | Data Engineer
 </p>
 
 
@@ -41,7 +41,8 @@
   <img src="https://img.shields.io/badge/-Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-44E376?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Airflow-216E39?style=for-the-badge&logo=apache-airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/-Azure-44E376?style=for-the-badge&logo=microsoftazure&logoColor=white"
+  <img src="https://img.shields.io/badge/-Azure-44E376?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/-Postman-216E39?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 <p></p>
 
