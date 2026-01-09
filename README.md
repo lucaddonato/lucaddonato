@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/SQLite-216E39?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-44E376?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-216E39?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img src="https://img.shields.io/badge/ClickHouse-44E376?style=for-the-badge&logo=clickhouse&logoColor=white">
 </p>
 
 <br/>
