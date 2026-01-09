@@ -44,6 +44,14 @@
 
 <br/>
 
+<h2>Data Visualization</h2>
+<p>
+  <img src="https://img.shields.io/badge/Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-216E39?style=for-the-badge&logo=powerbi&logoColor=white">
+</p>
+
+<br/>
+
 <!-- Tools -->
 <h2>Tools</h2>
 <p>
@@ -51,8 +59,8 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-216E39?style=for-the-badge&logo=apache-airflow&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-216E39?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-216E39?style=for-the-badge&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/MinIO-44E376?style=for-the-badge&logo=minio&logoColor=white">
+  <img src="https://img.shields.io/badge/Dev%20Container-216E39?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 <br/>
