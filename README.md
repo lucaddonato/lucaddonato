@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-44E376?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-216E39?style=for-the-badge&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/ClickHouse-44E376?style=for-the-badge&logo=clickhouse&logoColor=white">
+  <img src="https://img.shields.io/badge/Neo4j-216E39?style=for-the-badge&logo=neo4j&logoColor=white">
 </p>
 
 <br/>
