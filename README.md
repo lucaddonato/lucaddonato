@@ -74,4 +74,5 @@
   <img src="https://img.shields.io/badge/Selenium-44E376?style=for-the-badge&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/BeautifulSoup-216E39?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/OpenPyXL-44E376?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python--dotenv-216E39?style=for-the-badge&logo=python&logoColor=white">
 </p>
