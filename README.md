@@ -62,11 +62,12 @@
   <img src="https://img.shields.io/badge/Dev%20Container-216E39?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Airflow-216E39?style=for-the-badge&logo=apache-airflow&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Iceberg-44E376?style=for-the-badge&logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-216E39?style=for-the-badge&logo=apache-spark&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-216E39?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/MinIO-44E376?style=for-the-badge&logo=minio&logoColor=white">
   <img src="https://img.shields.io/badge/Argo-216E39?style=for-the-badge&logo=argo&logoColor=white">
   <img src="https://img.shields.io/badge/Rancher-44E376?style=for-the-badge&logo=rancher&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
 <br/>
