@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-216E39?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-44E376?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-216E39?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/IBM%20Cloud-44E376?style=for-the-badge&logo=ibmcloud&logoColor=white">
 </p>
 
 <br/>
