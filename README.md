@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Argo-216E39?style=for-the-badge&logo=argo&logoColor=white">
   <img src="https://img.shields.io/badge/Rancher-44E376?style=for-the-badge&logo=rancher&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-44E376?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-216E39?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-216E39?style=for-the-badge&logo=powerbi&logoColor=white">
 </p>
 
 <br/>
